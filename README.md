@@ -42,8 +42,7 @@ Jobs dataset is a set of Tweets that are job related. The dataset is annotated b
 ### Folder Structure
 
 ````
-datasets/
-└── job_related_dataset/
+jobs/
     └── jobQ1_BOTH/
         ├── jobQ1_BOTH_annotations.json
         ├── jobQ1_BOTH.json
